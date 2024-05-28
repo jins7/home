@@ -34,7 +34,7 @@
 
             <div class="d-flex pb-3">
               <div>
-                <img src="../assets/icon/email.png" width="36" height="36"  alt="">
+                <img src="../assets/icon/email.png" width="36" height="36" alt="">
               </div>
               <div class="ps-3">
                 <div class="h6">
@@ -56,11 +56,18 @@
         <div class="col-12 col-lg-6">
           <div class="card">
             <div class="row justify-content-center">
-              <img src="/src/assets/image/stay/stayai.png" class="col-4 pt-2" alt=""/>
+              <img src="/src/assets/image/stay/stayai.png" class="col-4 pt-2" alt="" />
             </div>
             <div class="card-body">
-              <div class="col-12 h6 pb-2">STAY.AI 是一款<mark>社交和AI Agent</mark>结合的轻量化软件平台，它允许用户通过<mark>不同的组件来构建逻辑规则</mark>，具备弱代码平台属性，从而降低用户制作个人应用的门槛。在STAY.AI下用户可以自己diy构建自己的应用场景，开发新的规则玩法。同时STAY.AI允许用户利用<mark>agent提高软件易用性</mark>，辅助软件应用生态智能化！</div>
-              <div class="col-12 h6 pb-2">STAY.AI is a lightweight social software that combines social networking and AI Agent. It allows users to build logical rules through different components and has weak code platform properties, thereby lowering the threshold for users to create personal applications. Under STAY.AI, users can DIY their own application scenarios and develop new rules and gameplay. At the same time, STAY.AI allows users to use agents to improve software usability and assist in making software applications ecologically intelligent!</div>
+              <div class="col-12 h6 pb-2">STAY.AI 是一款<mark>社交和AI
+                  Agent</mark>结合的轻量化软件平台，它允许用户通过<mark>不同的组件来构建逻辑规则</mark>，具备弱代码平台属性，从而降低用户制作个人应用的门槛。在STAY.AI下用户可以自己diy构建自己的应用场景，开发新的规则玩法。同时STAY.AI允许用户利用<mark>agent提高软件易用性</mark>，辅助软件应用生态智能化！
+              </div>
+              <div class="col-12 h6 pb-2">STAY.AI is a lightweight social software that combines social networking and
+                AI Agent. It allows users to build logical rules through different components and has weak code platform
+                properties, thereby lowering the threshold for users to create personal applications. Under STAY.AI,
+                users can DIY their own application scenarios and develop new rules and gameplay. At the same time,
+                STAY.AI allows users to use agents to improve software usability and assist in making software
+                applications ecologically intelligent!</div>
             </div>
           </div>
         </div>
@@ -70,11 +77,16 @@
 </template>
 <style>
 .background-image {
-  background-image: url('src/assets/image/background/1.png'); /* 设置背景图片 */
-  background-size: cover; /* 背景图片覆盖整个容器 */
-  background-position: center; /* 背景图片居中 */
-  background-repeat: no-repeat; /* 背景图片不重复 */
-  width: 100%; /* 设置容器宽度为100% */
+  background-image: url('/src/assets/image/background/1.png');
+  /* 设置背景图片 */
+  background-size: cover;
+  /* 背景图片覆盖整个容器 */
+  background-position: center;
+  /* 背景图片居中 */
+  background-repeat: no-repeat;
+  /* 背景图片不重复 */
+  width: 100%;
+  /* 设置容器宽度为100% */
 }
 </style>
 <script setup>
