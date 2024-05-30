@@ -1,5 +1,6 @@
 <template>
   <section id="experience">
+    <div class="pt-1"></div>
     <div class="container my-5">
       <div class="row">
 
