@@ -90,9 +90,9 @@
             <div class="card-body">
               <!--              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>-->
               <h5 class="pb-2">2023.07-present 算法实习生</h5>
-              <h5 class="pb-2">松鼠AI</h5>
+              <h5 class="pb-2">松鼠AI·智适应 Squirrel Al Learning</h5>
               <a href="https://sites.google.com/site/qingsongwen8/">
-                <h5>Advisor: 文青松</h5>
+                <h5>Advisor: Qingsong Wen</h5>
               </a>
             </div>
           </div>
