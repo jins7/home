@@ -84,7 +84,7 @@
           <div class="card">
             <div class="row">
               <div class="col-6 col-lg-8 p-4 pb-2 ">
-                <img src="../assets/image/Squirrel%20AI.jpg" class="img-fluid" alt="...">
+                <img src="../assets/image/img.png" class="img-fluid" alt="...">
               </div>
             </div>
             <div class="card-body">
